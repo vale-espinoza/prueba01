@@ -1,0 +1,323 @@
+[{
+		"nombre": "Taller de Diseño Gráfico VI",
+		"creditaje": 9,
+		"directas": 6,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					5,
+					15,
+					11
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					13,
+					10,
+					8
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					14,
+					17,
+					23
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					12,
+					14,
+					23
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					13,
+					13,
+					10
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Seminario Gráfica Computacional II",
+		"creditaje": 3,
+		"directas": 3,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					3.5,
+					3,
+					0
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					3.5,
+					3,
+					0
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					3,
+					4,
+					3
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					3,
+					4,
+					3
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					3,
+					3,
+					3
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Seminario Producción Audiovisual II",
+		"creditaje": 3,
+		"directas": 3,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					6,
+					5,
+					12
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					0,
+					0,
+					0
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					4,
+					3,
+					6
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					24,
+					18,
+					12
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					6,
+					6,
+					3
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Seminario de Diseño Gráfico II",
+		"creditaje": 5,
+		"directas": 3,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					4.5,
+					0,
+					12
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					6,
+					0,
+					0
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					24,
+					18,
+					12
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					24,
+					18,
+					12
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					6,
+					6,
+					3
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Ética y Legislación",
+		"creditaje": 3,
+		"directas": 3,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					11,
+					2.5,
+					12
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					6,
+					4,
+					8
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					24,
+					18,
+					12
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					24,
+					18,
+					12
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					6,
+					6,
+					3
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Seminario de Gestión II",
+		"creditaje": 3,
+		"directas": 3,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					2,
+					15,
+					12
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					24,
+					18,
+					12
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					24,
+					18,
+					12
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					24,
+					18,
+					12
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					6,
+					6,
+					3
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Electivo IV",
+		"creditaje": 3,
+		"directas": 3,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					3,
+					0,
+					3
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					3,
+					1.5,
+					0
+				]
+			},
+			{
+				"nombre": "Tomás López ",
+				"horas": [
+					24,
+					18,
+					12
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					24,
+					18,
+					12
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					6,
+					6,
+					3
+				]
+			}
+		]
+	}
+]

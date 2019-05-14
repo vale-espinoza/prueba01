@@ -1,0 +1,369 @@
+[{
+		"nombre": "Taller de Diseño Gráfico IV",
+		"creditaje": 9,
+		"directas": 6,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					5,
+					15,
+					11
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					13,
+					10,
+					10
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					14,
+					17,
+					23
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					12,
+					14,
+					23
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					13,
+					13,
+					11
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Tecnología Gráfica II",
+		"creditaje": 3,
+		"directas": 3,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					3,
+					3,
+					0
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					3,
+					4,
+					3
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					3,
+					4,
+					3
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					3,
+					4,
+					3
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					3,
+					3,
+					3
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Multimedia II",
+		"creditaje": 3,
+		"directas": 3,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					6,
+					5,
+					12
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					0,
+					0,
+					0
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					4,
+					3,
+					6
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					5,
+					5,
+					3
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					3,
+					3,
+					3
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Lenguaje Audiovisual II",
+		"creditaje": 5,
+		"directas": 3,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					5,
+					0,
+					12
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					6,
+					0,
+					0
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					14,
+					5,
+					5
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					8,
+					7,
+					5
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					11,
+					6,
+					5
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Metodología de la Investigación",
+		"creditaje": 3,
+		"directas": 3,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					11,
+					3,
+					12
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					6,
+					4,
+					11
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					8,
+					3,
+					3
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					9,
+					3,
+					3
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					9,
+					3,
+					3
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Semiótica de la Imagen II",
+		"creditaje": 3,
+		"directas": 3,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					2,
+					15,
+					12
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					3,
+					6,
+					4
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					5,
+					4,
+					3
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					4,
+					4,
+					4
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					3,
+					5,
+					3
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Marketing II",
+		"creditaje": 2,
+		"directas": 0,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					1,
+					7,
+					12
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					0,
+					0,
+					0
+				]
+			},
+			{
+				"nombre": "Tomás López",
+				"horas": [
+					2,
+					3,
+				    1
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					5,
+					0,
+					16
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					0,
+					2,
+					4
+				]
+			}
+		]
+	},
+	{
+		"nombre": "Electivo II",
+		"creditaje": 3,
+		"directas": 3,
+		"dedicacion": [{
+				"nombre": "Valentina Espinoza",
+				"horas": [
+					3,
+					0,
+					3
+				]
+			},
+			{
+				"nombre": "Deianira Reyes",
+				"horas": [
+					3,
+					2,
+					0
+				]
+			},
+			{
+				"nombre": "Tomás López ",
+				"horas": [
+					3,
+					3,
+					3
+				]
+			},
+			{
+				"nombre": "Felipe Cabello",
+				"horas": [
+					4,
+					4,
+					4
+				]
+			},
+			{
+				"nombre": "Felipe Sánchez",
+				"horas": [
+					11,
+					13,
+					6
+				]
+			}
+		]
+	}
+]
